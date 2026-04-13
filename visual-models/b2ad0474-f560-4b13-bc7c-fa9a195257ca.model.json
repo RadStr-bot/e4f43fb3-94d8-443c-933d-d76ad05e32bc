@@ -1,0 +1,16 @@
+{
+  "identifier": "b2ad0474-f560-4b13-bc7c-fa9a195257ca",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "identifier": "b2ad0474-f560-4b13-bc7c-fa9a195257ca-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Main view"
+      }
+    }
+  ]
+}
